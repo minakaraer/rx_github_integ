@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="git-demoRepository"
+id="267299b7-24d8-4a2a-b8c9-8f58a58866e6">
+  <codegen
+  classname="git-demoRepository"
+  namespace="git_demo"/>
+  <rootfolder
+  name="Root"
+  id="8de70c14-4897-4fde-986b-7f2746213f2c"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>
